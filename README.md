@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesta edição do NLW, você vai construir um projeto clássico do NLW eSports com uma pegada totalmente nova e inteligente! Vamos vai criar um Assistente de IA para Gamers. 🎮
+Nesta edição do NLW, vou construir um projeto clássico do NLW eSports com uma pegada totalmente nova e inteligente! Partiu criar um Assistente de IA para Gamers! 🎮
 
 Imagine um aplicativo com design moderno e animações, que te auxilia nos jogos e dá dicas de estratégia em tempo real, tudo isso usando a API do Gemini como o cérebro do nosso assistente.
 <br>
