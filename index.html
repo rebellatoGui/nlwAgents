@@ -21,7 +21,7 @@
     <main>
       <section>
         <div>
-          <h2>Assistente de Meta</h2>
+          <h2 class="title">Assistente de Meta</h2>
           <p>Pergunte sobre estratégias, build e dicas para seus jogos!</p>
 
           <form id="form">
@@ -36,16 +36,17 @@
               <option value="cs">Fortnite</option>
             </select>
 
-            <input type="text" placeholder="Ex: Melhor build para o campeão..." />
+            <input id="questionInput" type="text" placeholder="Ex: Melhor build para o campeão..." required />
             <button id="askButton">Perguntar</button>
           </form>
 
-          <div id="aiResponse">
+          <div id="aiResponse" class="hidden">
             <div class="response-content"></div>
           </div>
         </div>
       </section>
     </main>
+    <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
     <script src="./script.js"></script>
   </body>
 </html>
