@@ -1,11 +1,7 @@
-<p class="logo" align="center">
-  <img alt="logo eSports" src="assets/logo.png" width="300" height="200">
-</p>
-
-<h1 align="center">Projeto E-Sports</h1>
+<h1 align="center"> NLW Agents - Assistente de Meta 🎮</h1>
 
 <p align="center">
-Evento gratuito da Rocketseat, com foco em desenvolvimento web e criação de um assistente de IA para gamers! 🚀
+Assistente de IA para gamers que responde dúvidas de estratégia com a API do Gemini
 </p>
 
 <p align="center">
@@ -13,10 +9,8 @@ Evento gratuito da Rocketseat, com foco em desenvolvimento web e criação de um
   <a href="#-projeto">Projeto</a>
 </p>
 
-<div align="center">
-  <img alt="Capa NLW Agents" src="assets/capa_nlwagents.png">
-</div>
-
+<p align="center">
+  <img alt="Capa NLW Agents - Assistente de Meta" src="assets/readme-preview.png" style="border-radius: 10px;">
 <br>
 
 ## 🚀 Tecnologias
@@ -26,23 +20,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- Gemini API
+- Showdown (Markdown para HTML)
 - Git e Github
-- Gemini AI
-
-<br>
 
 ## 💻 Projeto
 
-Nesta edição do NLW, vou construir um projeto clássico do NLW eSports com uma pegada totalmente nova e inteligente! Partiu criar um Assistente de IA para Gamers! 🎮
+- O Assistente de Meta foi desenvolvido no NLW Agents da Rocketseat, revisitando o clássico NLW eSports com IA: o jogador escolhe o jogo (League of Legends, Valorant ou CS:GO), escreve a pergunta e recebe dicas de estratégia, builds e meta atual geradas pela IA.
 
-Imagine um aplicativo com design moderno e animações, que te auxilia nos jogos e dá dicas de estratégia em tempo real, tudo isso usando a API do Gemini como o cérebro do nosso assistente.
-<br>
-
-<div align="center">
-  <img src="assets/image.png" alt="Imagem eSports App">
-</div>
-
-<br>
+- A aplicação é feita com HTML, CSS e JavaScript puro, chamando a API do Gemini (modelo gemini-2.5-flash) direto do navegador com `fetch`. A chave da API é digitada pelo próprio usuário na interface, então nenhuma credencial fica no código.
 
 <h2 align="center">📌 Desenvolvedores</h2>
 
@@ -63,8 +49,4 @@ Imagine um aplicativo com design moderno e animações, que te auxilia nos jogos
 
 ---
 
-<p align="center">Feito com 💜 pela <b>Rocketseat<b></p>
-
-<div align="center">
-  <img src="assets/NLW_Agents.svg" alt="Logo NLW Agents">
-</div>
+<p align="center">Feito com ♥ por rebellatoGui</p>
